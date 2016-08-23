@@ -1,7 +1,7 @@
 #pm_base
-mod "umuc.edu_con_repo",
-  :git    => "git@github.com:nosike/pm_base.git",
-  :branch => "development"
+mod 'umuc.edu_con_repo',
+  :git    => 'git@github.com:nosike/umuc.edu_con_repo.git',
+  :branch => 'development'
 
 # ~/example.domain.com-inf/puppet/Puppetfile
 #forge "http://forge.puppetlabs.com"
