@@ -1,6 +1,6 @@
 #pm_base
-mod 'umuc.edu_con_repo',
-  :git    => 'git@github.com:nosike/umuc.edu_con_repo.git'
+mod 'umucedu_conrepo',
+  :git    => 'git@github.com:nosike/umucedu_conrepo.git'
 #  :branch => 'development'
 
 # ~/example.domain.com-inf/puppet/Puppetfile
