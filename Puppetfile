@@ -1,11 +1,11 @@
 #pm_base
-#mod 'umucedu_conrepo',
-#  :git    => 'git@github.com:nosike/umucedu_conrepo.git'
+mod 'umucedu_conrepo',
+  :git    => 'git@github.com:nosike/umucedu_conrepo.git'
 #  :branch => 'development'
 # ntp module
-mod 'pm_dntp',
-  :git  => 'git@github.com:nosike/pm_dntp.git'
-
+#mod 'pm_dntp',
+#  :git  => 'git@github.com:nosike/pm_dntp.git'
+#
 # ~/example.domain.com-inf/puppet/Puppetfile
 #forge "http://forge.puppetlabs.com"
 
