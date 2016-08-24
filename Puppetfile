@@ -1,6 +1,6 @@
 #pm_base
-mod 'umucedu_conrepo',
-  :git    => 'git@github.com:nosike/umucedu_conrepo.git'
+#mod 'umucedu_conrepo',
+#  :git    => 'git@github.com:nosike/umucedu_conrepo.git'
 #  :branch => 'development'
 # ntp module
 mod 'pm_dntp',
