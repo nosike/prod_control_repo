@@ -7,8 +7,8 @@ mod "pm_rmmce",
   :git => "git@github.com:nosike/pm_rmmce.git"
 
 #pm_mcelog 
-mod "pm_mcelog",                                                                                
-  :git => "git@github.com:nosike/pm_mcelog.git"
+#mod "pm_mcelog",                                                                                
+#  :git => "git@github.com:nosike/pm_mcelog.git"
 
 #puppet_agent 
 mod "puppet_agent",
