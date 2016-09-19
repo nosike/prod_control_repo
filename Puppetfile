@@ -1,5 +1,5 @@
 #Puppet Function
-mode "custom_func_library"
+mode "custom_func_library",
   :git => "git@github.com:nosike/custom_func_library.git"
 
 #pm_base
