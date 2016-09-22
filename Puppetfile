@@ -2,6 +2,10 @@
 mod "custom_func_library",
   :git => "git@github.com:nosike/custom_func_library.git"
 
+##jdk_updater Module
+mod "jdk_updater",
+  :git => "git@github.com:nosike/jdk_updater.git"
+
 #pm_base
 mod "pm_base",
   :git => "git@github.com:nosike/pm_base.git"
