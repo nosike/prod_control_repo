@@ -14,6 +14,10 @@ mod "pm_base",
 #mod "pm_rmmce",
 #  :git => "git@github.com:nosike/pm_rmmce.git"
 
+#pm_apache
+mod "pm_apache",
+  :git => "git@github.com:nosike/pm_apache.git"
+
 #pm_mcelog 
 mod "pm_mcelog",                                                                                
   :git => "git@github.com:nosike/pm_mcelog.git"
