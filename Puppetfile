@@ -18,6 +18,9 @@ mod "pm_base",
 mod "pm_apache",
   :git => "git@github.com:nosike/pm_apache.git"
 
+mod "pm_apache",
+  :git => "git@github.com:nosike/pm_apache.git"
+  :environment => "development"
 #pm_mcelog 
 mod "pm_mcelog",                                                                                
   :git => "git@github.com:nosike/pm_mcelog.git"
