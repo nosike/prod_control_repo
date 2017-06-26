@@ -5,6 +5,16 @@
 ## pm_apache
 mod "pm_apache",
   :git => "git@github.com:nosike/pm_apache.git"
+
+
+#pm_mcelog
+mod "pm_mcelog",
+  :git => "git@github.com:nosike/pm_mcelog.git"
+   
+   #puppet_agent
+   mod "puppet_agent",
+     :git => "git@github.com:nosike/puppet_agent.git"
+
 #  :branch => 'development'
 # ntp module
 #mod 'pm_dntp',
