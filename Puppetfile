@@ -3,7 +3,6 @@ mod 'umucedu_conrepo',
 
 #pm_apache
 mod 'dev_control_repo',
-  :git => "git@github.com:nosike/dev_control_repo.git"
 
 #  :branch => 'development'
 # ntp module
