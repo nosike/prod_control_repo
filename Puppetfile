@@ -1,9 +1,10 @@
 #pm_base
-mod 'umucedu_conrepo',
+mod "umucedu_conrepo",
 
-#pm_apache
-mod 'dev_control_repo',
 
+## pm_apache
+mod "pm_apache",
+  :git => "git@github.com:nosike/pm_apache.git"od 'dev_control_repo',
 #  :branch => 'development'
 # ntp module
 #mod 'pm_dntp',
