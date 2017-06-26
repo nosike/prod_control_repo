@@ -2,7 +2,7 @@
 mod 'umucedu_conrepo',
 
 #pm_apache
-mod 'dev_control_repo',
+#mod 'dev_control_repo',
 
 #  :branch => 'development'
 # ntp module
