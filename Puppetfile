@@ -1,5 +1,5 @@
 #pm_base
-mod "umucedu_conrepo",
+#mod "umucedu_conrepo",
 
 
 ## pm_apache
