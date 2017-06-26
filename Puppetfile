@@ -5,7 +5,6 @@ mod 'umucedu_conrepo',
 mod "pm_apache",
   :git => "git@github.com:nosike/pm_apache.git"
 
-git clone git@github.com:nosike/prod_control_repo.git origin development
 #  :branch => 'development'
 # ntp module
 #mod 'pm_dntp',
