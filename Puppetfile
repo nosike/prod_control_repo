@@ -2,7 +2,7 @@
 mod 'umucedu_conrepo',
 
 #pm_apache
-mod "pm_apache",
+mod 'pm_apache',
   :git => "git@github.com:nosike/pm_apache.git"
 
 #  :branch => 'development'
