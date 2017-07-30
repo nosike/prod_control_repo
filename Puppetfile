@@ -3,8 +3,8 @@
 
 
 ## pm_apache
-mod "pm_apache",
-  :git => "git@github.com:nosike/pm_apache.git"
+#mod "pm_apache",
+#  :git => "git@github.com:nosike/pm_apache.git"
 
 
 #pm_mcelog
