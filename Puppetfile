@@ -7,12 +7,12 @@
 #  :git => "git@github.com:nosike/jdk_updater.git"
 
 #pm_base
-mod "pm_base",
-  :git => "git@github.com:nosike/pm_base.git"
+#mod "pm_base",
+#  :git => "git@github.com:nosike/pm_base.git"
 
 #pm_rmmce
-mod "pm_rmmce",
-  :git => "git@github.com:nosike/pm_rmmce.git"
+#mod "pm_rmmce",
+#  :git => "git@github.com:nosike/pm_rmmce.git"
 
 #pm_apache
 mod "pm_apache",
