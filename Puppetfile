@@ -29,6 +29,8 @@ mod "puppet_agent",
 #pm_dntp
 mod "pm_dntp",
   :git => "git@github.com:nosike/pm_dntp.git"
+mod "pcerepo",
+  :git => "git@github.com:nosike/pcerepo.git"
 
 # ~/example.domain.com-inf/puppet/Puppetfile
 forge "http://forge.puppetlabs.com"
