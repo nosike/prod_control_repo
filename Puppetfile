@@ -31,6 +31,7 @@ mod "pm_dntp",
   :git => "git@github.com:nosike/pm_dntp.git"
 
 # ~/example.domain.com-inf/puppet/Puppetfile
+mod "puppetlabs-aws",
 forge "http://forge.puppetlabs.com"
 
 #mod 'mthibaut/users'
